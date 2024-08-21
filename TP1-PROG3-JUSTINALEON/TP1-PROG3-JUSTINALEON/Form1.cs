@@ -17,6 +17,11 @@ namespace TP1_PROG3_JUSTINALEON
             InitializeComponent();
         }
 
-       
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.Show();
+        }
     }
 }
+

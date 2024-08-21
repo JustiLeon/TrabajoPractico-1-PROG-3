@@ -1,0 +1,11 @@
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\bin\Debug\TP1-PROG3-JUSTINALEON.exe.config
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\bin\Debug\TP1-PROG3-JUSTINALEON.exe
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\bin\Debug\TP1-PROG3-JUSTINALEON.pdb
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\obj\Debug\TP1-PROG3-JUSTINALEON.csproj.AssemblyReference.cache
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\obj\Debug\TP1_PROG3_JUSTINALEON.Form1.resources
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\obj\Debug\TP1_PROG3_JUSTINALEON.Form2.resources
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\obj\Debug\TP1_PROG3_JUSTINALEON.Properties.Resources.resources
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\obj\Debug\TP1-PROG3-JUSTINALEON.csproj.GenerateResource.cache
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\obj\Debug\TP1-PROG3-JUSTINALEON.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\obj\Debug\TP1-PROG3-JUSTINALEON.exe
+C:\Users\justi\Documents\GitHub\TrabajoPractico-1-PROG-3\TP1-PROG3-JUSTINALEON\TP1-PROG3-JUSTINALEON\obj\Debug\TP1-PROG3-JUSTINALEON.pdb
